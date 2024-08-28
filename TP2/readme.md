@@ -1,6 +1,6 @@
 # TP2: Caminho de Dados em Verilog
 
-## Edição de um notebook no Google Colab com RiscV monociclo para alterar o caminho de dados e incluir mais operações e módulos
+### Edição de um notebook no Google Colab com RiscV monociclo para alterar o caminho de dados e incluir mais operações e módulos
 - mul Rd, Rs1, Rs2
 - div Rd, Rs1, Rs2
 - andi Rd, Rs1, Rs2
