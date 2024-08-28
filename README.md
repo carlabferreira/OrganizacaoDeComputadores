@@ -9,4 +9,8 @@ Trabalhos práticos da disciplina Organização de Computadores 1 (DCC006) da UF
   - div Rd, Rs1, Rs2
   - andi Rd, Rs1, Rs2
   - beq, Rs1, Rs2, label
+    - Desenvolvido em grupo com @manuelamfo e @psgabriele e disponível em https://colab.research.google.com/drive/16W0_w76ZV01pcKOQWMv9Wz_u1P6sMOYV?usp=sharing
+    - Documentação em https://docs.google.com/document/d/1qq9mQaEpmwNOjvhlZQsQHv3lg-hCCVwHbadVjTRmKpg/edit?usp=sharing
 - TP3: Hierarquia de memória - Simulador de memória cache em linguagem C
+    - Desenvolvido em grupo com @manuelamfo e @psgabriele e disponível em https://github.com/carlabferreira/TP3-OC1-UFMG
+    - Documentação em https://docs.google.com/document/d/1xkAg1d6eEn34pM2F_36yvQu7vly5cG_oeEMFCFEpuo4/edit?usp=sharing
