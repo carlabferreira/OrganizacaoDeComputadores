@@ -1,7 +1,7 @@
 # OCI - UFMG
 Trabalhos práticos da disciplina Organização de Computadores 1 (DCC006) da UFMG em 2024/1
 
-- TP1: Assembley - Simulação de funções em código assemby utilizando o Venus Simulator (https://www.kvakil.me/venus/)
+- TP1: Assembley - Simulação de funções em código assembly utilizando o Venus Simulator (https://www.kvakil.me/venus/)
   - Prob 1: Números múltiplos de X
   - Prob 2: Covariância 
 - TP2: Caminho de Dados em Verilog - Edição de um notebook no Google Colab com RiscV monociclo para alterar o caminho de dados e incluir mais operações e módulos
